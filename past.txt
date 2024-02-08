@@ -1,0 +1,15 @@
+warp ~
+neonate -n 4
+neonate -n 1
+sleep 100
+ping 7850 18
+activities
+ping 7850 18
+activities
+ping 7850 9
+activities
+sleep 100
+activities
+fg 8171
+activities
+echo "hi yes hello" | cat | cat > test.txt; cat test.txt | cat >> test.txt; cat < test.txt | cat >> test.txt; cat test.txt
